@@ -1,0 +1,16 @@
+small and simple instructions to my personal website 
+
+-- Navigation Bar on my top right contains - Home - About - Portfolio - Contact
+clicking on any of the navigations will lead or take you to their category / section
+
+
+--Home showcases the homepage of the site and gives the main aesthetic to the visitor
+
+--About me page includes info about me as a person, also contains a mini bar that showcases my core strenghts in graphic designing, while hovering the mouse
+over my picture the picture will look more clear.
+
+--Portfolio contains several of my work on what I've been or was making. While hovering the mouse over the pictures, they'll gain a very light look but upon
+clicking on them, the pictures will be zoomed in and more clear.
+
+--Contact gives a chance to the visitor to contact me throught different ways, like email or phone calls. From there my location can be seen as well.
+user can type in their names and email to message me.
